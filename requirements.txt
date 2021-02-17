@@ -1,6 +1,7 @@
 # Enter python packages to download here using - pip install requirements.txt.
 # These packages are basic things you are most likely going to use, add as needed.
 
+virtualenv
 Flask
 Flask-SQLAlchemy
 Flask-WTF
