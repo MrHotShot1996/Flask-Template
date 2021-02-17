@@ -1,0 +1,7 @@
+# Files to ignore when pushing to a branch or master using git scm
+# Most importantly to remove secret keys used in the project
+
+pycache
+project
+packages
+flaskapp/__pycache__
