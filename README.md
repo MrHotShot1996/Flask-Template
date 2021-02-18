@@ -12,3 +12,4 @@ windows:
 ## 5- Load into your virtualenv by
 ```cd packagename/Scripts/activate```
 
+# Note: That you will have to change the import name if you decide to change the name of the app folder since by defult it's flaskapp.
